@@ -47,7 +47,7 @@
 {
     
     if ([segue.identifier isEqual:@"showPlaylistDetail"]) {
-        // do something
+        
         
         UIImageView *playlistImageView = (UIImageView *)[sender view];
         
